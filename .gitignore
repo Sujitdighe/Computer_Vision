@@ -1,0 +1,4 @@
+/hand_on_cv/
+/.venv/
+__pycache__/
+*.py[cod]
